@@ -1,0 +1,35 @@
+body {
+    background-color: #06bb06;
+}
+#div1 {
+    text-align: center;
+    margin-top: 10vh;
+}
+#text1 {
+    text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.7);
+    color: black;
+    font-size: 48px;
+    font-weight: bold;
+}
+#text2 {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    color: white;
+    font-size: 38px;
+    font-weight: bold;
+}
+img {
+  margin-right: 3vh;
+  width: 30%;
+}
+#div2 {
+    background-color: #06a006;
+    margin: 10vh;
+    padding: 5vh;
+}
+ul {
+    font-size: 28px;
+    text-align: left;
+}
+a {
+    font-weight: 700;
+}
